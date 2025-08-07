@@ -6,7 +6,7 @@ metadata:
     component: backstage-workloads
   annotations:
     argocd/app-name: 'guestbook'
-    argocd/instance-name: my-argocd
+    # argocd/instance-name: my-argocd
     github.com/project-slug: janus-idp/backstage-showcase
     backstage.io/createdAt: '5/12/2021, 07:03:18 AM'
     quay.io/repository-slug: janus-idp/backstage-showcase
