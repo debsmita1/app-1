@@ -5,7 +5,7 @@ metadata:
   labels: 
     component: backstage-workloads
   annotations:
-    argocd/app-name: 'guestbook'
+    argocd/app-name: my-sample-app
     # argocd/instance-name: my-argocd
     github.com/project-slug: janus-idp/backstage-showcase
     backstage.io/createdAt: '5/12/2021, 07:03:18 AM'
